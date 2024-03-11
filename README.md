@@ -79,3 +79,19 @@ Additional Notes
 
 •For any further assistance or issues, please refer to the documentation of React, Vite, and Tailwind CSS or seek help from the project maintainers.
 
+Screenshots
+
+Dashboard
+![Screenshot (496)](https://github.com/Jagannath1809/ERP/assets/85400624/3635cc4b-6bae-4228-9441-dc74114ee64b)
+
+Products
+
+![Screenshot (497)](https://github.com/Jagannath1809/ERP/assets/85400624/224df125-8a0b-4183-8fa6-2fe2dd9baebb)
+
+Orders
+
+![Screenshot (498)](https://github.com/Jagannath1809/ERP/assets/85400624/400debab-4198-49c7-8a15-387965fdd90f)
+
+
+
+
